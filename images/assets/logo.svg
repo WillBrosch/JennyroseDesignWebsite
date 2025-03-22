@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <style>
+    .logo-text { font-family: 'Playfair Display', serif; fill: #8B4513; }
+    .tagline { font-family: 'Raleway', sans-serif; fill: #333333; }
+    .accent { fill: #008080; }
+  </style>
+  <rect x="10" y="30" width="40" height="40" rx="5" fill="#F5F5DC" stroke="#8B4513" stroke-width="2"/>
+  <path d="M20 50 L40 50 M30 40 L30 60" stroke="#8B4513" stroke-width="2"/>
+  <text x="60" y="55" class="logo-text" font-size="28">Jennyrose Design</text>
+  <text x="60" y="75" class="tagline" font-size="12">Handcrafted Leather Artistry</text>
+  <path d="M10 85 L290 85" stroke="#CD5C5C" stroke-width="1" class="accent"/>
+</svg>
